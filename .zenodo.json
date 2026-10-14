@@ -1,0 +1,15 @@
+{
+  "upload_type": "dataset",
+  "title": "Termômetro Black Friday 2026 (Brasil): linha de base de preços de 300 produtos do AliExpress",
+  "description": "Estudo aberto de preços. Amostra fixa de 300 produtos do AliExpress em 4 categorias (Eletrônicos, Telefones e telecomunicações, Computador e escritório, Relógios). Linha de base de preços de 31/08 a 30/09/2026, congelada em 30/09/2026, antes da Black Friday 2026 (27/11/2026). Coleta diária de preços (preço informado pela loja ao programa de afiliados). Esta versão traz somente a linha de base: os resultados serão publicados a partir de 28/11/2026, em nova versão. Limites: amostra de uma única loja e de 4 categorias, que não representa o varejo brasileiro; preços sem cupons, moedas, frete ou impostos; produtos importados sofrem efeito de câmbio. Metodologia completa: https://cupomdescontos.com/termometro-black-friday-2026",
+  "creators": [
+    { "name": "Monteiro, Eduardo" }
+  ],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "por",
+  "keywords": ["Black Friday", "preços", "desconto", "preço maquiado", "AliExpress", "e-commerce", "Brasil", "dados abertos"],
+  "related_identifiers": [
+    { "identifier": "https://cupomdescontos.com/termometro-black-friday-2026", "relation": "isDocumentedBy", "scheme": "url" }
+  ]
+}

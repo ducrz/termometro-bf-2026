@@ -1,5 +1,7 @@
 # Termômetro Black Friday 2026 — dataset aberto
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23373818.svg)](https://doi.org/10.5281/zenodo.23373818)
+
 Linha de base de preços de uma amostra fixa de 300 produtos, congelada em 30/09/2026, antes da Black Friday 2026 (27/11/2026). O objetivo é medir, depois da Black Friday, quanto do desconto anunciado é real e quanto é preço maquiado.
 
 Página oficial e metodologia completa: https://cupomdescontos.com/termometro-black-friday-2026
@@ -34,7 +36,7 @@ Na Black Week (23 a 30/11/2026) compara-se o menor preço da semana com as médi
 CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Uso livre, inclusive comercial, com crédito e link para a página do estudo.
 
 ## Como citar
-Monteiro, Eduardo. *Termômetro Black Friday 2026*. CupomDescontos.com, 2026. https://cupomdescontos.com/termometro-black-friday-2026 (CC BY 4.0). Ver `CITATION.cff`.
+Monteiro, Eduardo. *Termômetro Black Friday 2026*. CupomDescontos.com, 2026. DOI: https://doi.org/10.5281/zenodo.23373818 (todas as versões). Página: https://cupomdescontos.com/termometro-black-friday-2026 (CC BY 4.0). Ver `CITATION.cff`.
 
 ## Aviso
 O CupomDescontos.com (cupomdescontos.com) não é afiliado a sites de nome parecido ou com domínios semelhantes.
